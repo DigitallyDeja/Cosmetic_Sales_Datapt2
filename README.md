@@ -13,6 +13,8 @@ This project explores a new set of KPIs that could be answered from the <a href=
 - Which products preformed the best in each country?
 - Which month peaked for the total amount of shipments sold?
 
+ <img width="2598" height="1798" alt="image" src="https://github.com/user-attachments/assets/014ed039-74aa-47e6-bb10-1147583d83d0" />
+
 ## Project Insights
 - The USA has sold $8380 in sales, which is the highest average amount of products sold
 
