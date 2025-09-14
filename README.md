@@ -1,7 +1,8 @@
 # Cosmetic_Sales_Datapt2
 This project explores a new set of KPIs that could be answered from the <a href="https://github.com/DigitallyDeja/Cosmetic_Sales_Data">Cosmetic_Sales_Data</a>. The data was cleaned in SQL and visualized in Tableau.
 
-# Dataset used 
+## Dataset used 
+<a target="_blank" href="https://www.kaggle.com/datasets/atharvasoundankar/cosmetics-and-skincare-product-sales-data-2022">Cosmetic Sales Dataset</a>
 
 ## Questions KPIs
 ### Summary KPI 
@@ -13,8 +14,6 @@ This project explores a new set of KPIs that could be answered from the <a href=
 - Which products preformed the best in each country?
 - Which month peaked for the total amount of shipments sold?
 
- <img width="2598" height="1798" alt="image" src="https://github.com/user-attachments/assets/014ed039-74aa-47e6-bb10-1147583d83d0" />
-
 ## Project Insights
 - The USA has sold $8380 in sales, which is the highest average amount of products sold
 
@@ -23,3 +22,6 @@ This project explores a new set of KPIs that could be answered from the <a href=
 - The anti-aging product sold the most across all countries, with the highest sales volume coming from the USA, about $114,000. The following is the body butter, from which the largest volume of sales comes from New Zealand, at about $87,000.
 
 - In March 2022, the total amount of boxes sold reached its peak at $15,167, following a decline in shipment sales from $6,963 in February.
+
+
+ <img width="2598" height="1798" alt="image" src="https://github.com/user-attachments/assets/014ed039-74aa-47e6-bb10-1147583d83d0" />
