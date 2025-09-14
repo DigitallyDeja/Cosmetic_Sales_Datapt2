@@ -1,5 +1,7 @@
 # Cosmetic_Sales_Datapt2
-This project explores a new set of KPIs that could be answered from the Cosmetic_Sales_Data. The data was cleaned in SQL and visualized in Tableau.
+This project explores a new set of KPIs that could be answered from the <a href="https://github.com/DigitallyDeja/Cosmetic_Sales_Data">Cosmetic_Sales_Data</a>. The data was cleaned in SQL and visualized in Tableau.
+
+# Dataset used 
 
 ## Questions KPIs
 ### Summary KPI 
