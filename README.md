@@ -23,5 +23,10 @@ This project explores a new set of KPIs that could be answered from the <a href=
 
 - In March 2022, the total amount of boxes sold reached its peak at $15,167, following a decline in shipment sales from $6,963 in February.
 
+## Project Takeaway
+
+This analysis highlights how sales performance varies across countries, products, and time. The USA consistently leads in revenue, particularly in Q2, where sales reached their peak before experiencing a significant decline in subsequent quarters. Product trends reveal that anti-aging items dominate the global market, with body butter showing strong regional performance in New Zealand. Seasonal trends are also evident, as March 2022 marked the highest shipment volume, reflecting potential demand cycles within the cosmetic industry.
+
+Overall, these findings emphasize the importance of monitoring quarterly performance, product-specific demand, and seasonal peaks. Businesses could use these insights to adjust marketing strategies, optimize inventory, and target high-performing regions and product categories more effectively.
 
  <img width="2598" height="1798" alt="image" src="https://github.com/user-attachments/assets/014ed039-74aa-47e6-bb10-1147583d83d0" />
